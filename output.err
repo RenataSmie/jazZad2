@@ -1,0 +1,25 @@
+2018-03-17 23:11:15.880:INFO:oejs.Server:jetty-8.0.3.v20111011
+2018-03-17 23:11:16.505:INFO:oejpw.PlusConfiguration:No Transaction manager found - if your webapp requires one, please configure one.
+2018-03-17 23:11:17.928:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:11:17.946:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:11:17.959:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:11:18.218:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:8181 STARTING
+2018-03-17 23:14:05.513:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2018-03-17 23:14:05.516:INFO:oejsh.ContextHandler:stopped o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:14:05.969:INFO:oejpw.PlusConfiguration:No Transaction manager found - if your webapp requires one, please configure one.
+2018-03-17 23:14:06.566:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:14:06.573:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:14:06.579:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:15:15.194:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2018-03-17 23:15:15.196:INFO:oejsh.ContextHandler:stopped o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:15:15.873:INFO:oejpw.PlusConfiguration:No Transaction manager found - if your webapp requires one, please configure one.
+2018-03-17 23:15:16.647:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:15:16.653:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:15:16.657:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:17:58.843:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2018-03-17 23:17:58.845:INFO:oejsh.ContextHandler:stopped o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:17:59.513:INFO:oejpw.PlusConfiguration:No Transaction manager found - if your webapp requires one, please configure one.
+2018-03-17 23:18:00.347:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:18:00.354:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+2018-03-17 23:18:00.361:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/,file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/},file:/C:/Users/renata.smietanka/workspace/template/src/main/webapp/
+^C
